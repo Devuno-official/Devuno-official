@@ -35,4 +35,6 @@ I explore **JavaScript**, **HtML**, **CSS**, and **C**, and enjoy building Respo
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube)](www.youtube.com/@devuno_official)  
+
 
