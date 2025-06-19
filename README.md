@@ -1,6 +1,6 @@
 
 # Hi 👋 I’m Yasir (Devuno‑official)
-![Header](./your-header-image-name.png)
+
 
 I’m a **Cs college 12 year student with age 17** and **Web** based in bahawalpur, Pakistan 🇵🇰.  
 I explore **JavaScript**, **HtML**, **CSS**, and **C**, and enjoy building Responsive web design
