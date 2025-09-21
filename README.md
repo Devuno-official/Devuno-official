@@ -1,6 +1,6 @@
 
 I’m a **Cs 12 year student** and working on Ful stack web development   
-I explore **JavaScript**,**ReactJs**, **Bootstrap**, **TailwindCss**, and **C**, and enjoy building Responsive web design
+I explore **JavaScript**,**ReactJs**, **Bootstrap**, **TailwindCss**, and **C**, and have i have potentail do more  
 
 ## 🚀 Most Used Languages
 
