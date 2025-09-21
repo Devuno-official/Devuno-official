@@ -2,8 +2,8 @@
 # Hi 👋 I’m Yasir (Devuno‑official)
 
 
-I’m a **Cs college 12 year student with age 17** and **Web** based in Pakistan .  
-I explore **JavaScript**,**JavaSript Dom**, **HtML**, **CSS**, and **C**, and enjoy building Responsive web design
+I’m a **Cs 12 year student** and working on Ful stack web development   
+I explore **JavaScript**,**ReactJs**, **Bootstrap**, **TailwindCss**, and **C**, and enjoy building Responsive web design
 
 ---
 
