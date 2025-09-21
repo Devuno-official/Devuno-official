@@ -9,9 +9,3 @@ I explore **JavaScript**,**ReactJs**, **Bootstrap**, **TailwindCss**, and **C**,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devuno-official&layout=compact&theme=tokyonight)
 
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-x-blue?style=flat&logo=linkedin)]()  
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube)](www.youtube.com/@devuno_official)  
-
-
